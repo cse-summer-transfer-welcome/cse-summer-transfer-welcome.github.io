@@ -21,19 +21,16 @@ you already via the survey, Gradescope, and Discord.
 
 The programming practice is due by July 26 because I'll release answers, give feedback, and start discussing it on July 27. Ask on Discord with questions/if you get stuck!
 
-Also complete anything from the week 1 message (included at the end). You can start any time! For quick reference:
-
-- Gradescope course entry code is K3YVYJ
-- Discord invite link is: https://discord.gg/4zexzTVv6Z
+Also complete anything from the week 1 message (included at the end). You can start any time!
 
 👨‍🏫Quiz Review (Spoilers!)
 
 These videos go over the first half of the quiz questions from last week:
 
-- Q2.1 (References 1): https://youtu.be/Lpxym6SBD74
-- Q2.2 (References 2): https://youtu.be/t3vvf1U2tjo
-- Q2.3 (Interfaces): https://youtu.be/csk4A0DU-kE
-- Q2.4 (Command-line Arguments): https://youtu.be/3wI16EFzEI0
+- [Q2.1 (References 1)](https://youtu.be/Lpxym6SBD74)
+- [Q2.2 (References 2)](https://youtu.be/t3vvf1U2tjo)
+- [Q2.3 (Interfaces)](https://youtu.be/csk4A0DU-kE)
+- [Q2.4 (Command-line Arguments)](https://youtu.be/3wI16EFzEI0)
 
 (I'll go over the second half of the questions in a future week more focused on
 data structures; this week focuses on material related to Q2.4.)
@@ -51,10 +48,12 @@ of videos that I will keep updating.
 
 Some folks on Discord asked about other public course material. Some examples are below! Feel free to ask about or discuss them on Discord.
 
-- CSE12: https://ucsd-cse12-w21.github.io/
-- CSE20: https://discrete-math-for-cs.github.io/website/overview_calendar.html
-- CSE30: https://stepik.org/course/74320/syllabus
-- Courses in general often have lectures available at https://podcast.ucsd.edu/ – you can search in the "Past Courses" tab
+- [CSE12](https://ucsd-cse12-w21.github.io/)
+- [CSE20](https://discrete-math-for-cs.github.io/website/overview_calendar.html)
+- [CSE30](https://stepik.org/course/74320/syllabus)
+- Courses in general often have lectures available at
+  [https://podcast.ucsd.edu/](https://podcast.ucsd.edu/) – you can search in
+  the "Past Courses" tab
 
 This is just a summary of a few different questions/conversations – come join
 Discord if you want to see whole conversations that won't fit in an email.
@@ -78,9 +77,10 @@ the fall 🙂
 
 🗓 Format and Content
 
-Quick overview video: [https://www.youtube.com/watch?v=aGic1t47Jvg]. In brief,
-we'll send an email like this every week with video(s), resources, and some
-activity you can complete, and there's a chat server for Q&A.
+Quick overview video:
+[https://www.youtube.com/watch?v=aGic1t47Jvg](https://www.youtube.com/watch?v=aGic1t47Jvg).
+In brief, we'll send an email like this every week with video(s), resources,
+and some activity you can complete, and there's a chat server for Q&A.
 
 You can participate as much or as little as you like, and I hope to convince
 you that “much” will prepare you well for fall quarter!
@@ -99,11 +99,11 @@ you that “much” will prepare you well for fall quarter!
 
 📎 Other Useful Links
 
-UCSD CSE advising: https://cse.ucsd.edu/undergraduate/undergraduate-advising
+UCSD CSE advising: [https://cse.ucsd.edu/undergraduate/undergraduate-advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising)
 
-UCSD CSE summer transfer series: https://cse.ucsd.edu/undergraduate/summer-transfer-series
+UCSD CSE summer transfer series: [https://cse.ucsd.edu/undergraduate/summer-transfer-series](https://cse.ucsd.edu/undergraduate/summer-transfer-series)
 
-My contact info: https://jpolitz.github.io/contact/
+My contact info: [https://jpolitz.github.io/contact/](https://jpolitz.github.io/contact/)
 
 CSE 11 (Accelerated Introduction to OOP with Java): [CSE 11 Textbook](https://stepik.org/lesson/559661/step/1?unit=553721),
 [CSE 11 course page from last fall](https://ucsd-cse11-f21.github.io/),
