@@ -1,3 +1,34 @@
+## Week 3
+
+Hi all!
+
+Hope your summer is going well! Joe here, back with more summer studies excitement.
+
+☑️ Things to Do This Week (Do One, Some, or All!)
+
+- Watch this [recorded lecture video](https://youtu.be/ukR_QETXq4I) from [CSE11 about interfaces](https://ucsd-cse11-f21.github.io/lectures/lecture10.html) (and a feel for what an in-person lecture looks like!)
+- Work on [chapter 8](https://stepik.org/lesson/574307/step/1?unit=568892) of the CSE11 textbook about interfaces
+- Complete Summer Quiz Week 3 on [Gradescope](https://www.gradescope.com/) (about... you guessed it... interfaces!). You can also give us feedback via this quiz!
+- Do something [from a past week](https://cse-summer-transfer-welcome.github.io/) – it's not too late to get started!
+
+👨‍🏫 Programming Practice Review (Spoilers!)
+
+Check out the video reviewing the programming problem from last week. There's also a direct link to the [code from the video](https://github.com/cse-summer-transfer-welcome/cse-summer-transfer-welcome.github.io/blob/main/Stats.java).
+
+If you submitted your solution to Gradescope, I'll get you feedback on your code this week!
+
+If you tried and struggled with this, feel free to direct message me on Discord, ask on the general channel on Discord, email me, or come by my [office hours](https://jpolitz.github.io/contact/) with questions.
+
+📎 Resources and Quick Links
+
+A featured resource this week is [CSE Prof Advising Office Hours](https://cse.ucsd.edu/undergraduate/undergraduate-committee-ugcom-advising-and-mentorship), where you can talk to profs in the department about courses, research, industry, and more!
+
+- There's now a dedicated [webpage archiving these emails](https://cse-summer-transfer-welcome.github.io/)
+- [Summer Studies YouTube Playlist](https://www.youtube.com/playlist?list=PLomrLWUG1p5Oe0V4ePwB_FimUCCOZHs9N)
+- [UCSD CSE Advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising)
+
+Happy Summer ☀️
+
 ## Week 2
 
 Hi everyone,
