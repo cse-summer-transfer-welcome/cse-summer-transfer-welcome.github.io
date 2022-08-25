@@ -1,3 +1,100 @@
+## Week 6
+
+Hi all!
+
+I'm back (if a little late this week ![😬](https://fonts.gstatic.com/s/e/notoemoji/14.0/1f62c/72.png)) with more summer studies goodness.
+
+It's time to talk about runtime!
+
+![☑️](https://fonts.gstatic.com/s/e/notoemoji/14.0/2611_fe0f/72.png) **Things to Do This Week (Do One, Some, or All!)\
+**
+
+-   Watch two videos on measuring and calculating runtime [[1]](https://youtu.be/_5AVXWN_cyY) [[2]](https://youtu.be/kxmCdhrCj8g) (these are from a lecture in CSE12)
+-   Complete the section on [Time Complexity](https://stepik.org/lesson/692933/step/1?unit=692543) in Stepik
+-   Complete the programming practice (and quiz questions!) in Summer Programming Practice Week 6 on [Gradescope](https://www.gradescope.com/). (The solution for last week's programming practice is included as part of that quiz).
+
+-   **Bonus:** I also uploaded the automatic grader for [PA7 from CSE11](https://ucsd-cse11-f21.github.io/assignments/pa7.html) on Gradescope (it shows up as "pa7" in the assignment list). It's a great way to see what it's like when you upload a coding assignment that gets automatically graded in our courses. Some folks have mentioned wanting more practice with interfaces, and it's also a great assignment for that. It has milestones designed in, so you can do just part of it and still learn a lot.
+-   Do something [from a past week](https://cse-summer-transfer-welcome.github.io/) -- it's not too late to get started!
+
+**![🔗](https://fonts.gstatic.com/s/e/notoemoji/14.0/1f517/72.png) Resources & Quick Links\
+**
+
+It's time to register for classes! Reach out to a [CSE advisor](https://cse.ucsd.edu/undergraduate/undergraduate-advising) if you have questions or troubles with enrollment!
+
+-   [UCSD CSE Advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising)
+-   [Summer Studies Archive](https://cse-summer-transfer-welcome.github.io/)
+-   [Summer Studies YouTube Playlist](https://www.youtube.com/playlist?list=PLomrLWUG1p5Oe0V4ePwB_FimUCCOZHs9N)
+
+Happy summer ![☀️](https://fonts.gstatic.com/s/e/notoemoji/14.0/2600_fe0f/72.png)
+
+## Week 5
+
+We're onto data structures this week -- lists first, then onto trees and more next week and beyond.
+
+![☑️](https://fonts.gstatic.com/s/e/notoemoji/14.0/2611_fe0f/72.png) **Things to Do This Week (Do One, Some, or All!)**
+
+-   Watch three videos on Lists and ArrayLists [[1]](https://www.youtube.com/watch?v=dvAxaTYUzDs) [[2]](https://www.youtube.com/watch?v=fwH0Qvl0gR0) [[3]](https://www.youtube.com/watch?v=5dsTEYDPlfs)
+
+-   Read the chapter on [ArrayLists on Stepik](https://stepik.org/lesson/687833/step/1?unit=687068)
+-   Complete the programming practice described in the Summer Programming Practice Week 5 on [Gradescope](https://www.gradescope.com/)
+-   Review the quiz answers in Gradescope (you can see your quiz graded if you submitted, and if you make a new submission or update your submission you'll see automated feedback)
+
+-   Do something [from a past week](https://cse-summer-transfer-welcome.github.io/) -- it's not too late to get started!
+
+![🔗](https://fonts.gstatic.com/s/e/notoemoji/14.0/1f517/72.png) **Resources & Quick Links**
+
+Next **Tuesday, August 16, 2-3pm** there is a [CSE summer transfer series](https://cse.ucsd.edu/undergraduate/summer-transfer-series) session with the Undergraduate Research Hub, Academic Internship Program, and the Career Center about **internships and research**.[](https://transferstudents.ucsd.edu/resources/%20https://ucsd.zoom.us/meeting/register/tJ0lduivpjIiHtTOyEx9wYzzVmXYREmxTYiV)
+
+Hot off the (virtual) presses, this summer session featured the beta release of a new [Stepik text for CSE 12](https://stepik.org/course/109917/promo), authored in large part by UCSD CSE students! Check it out! It will be iterated on and used in future offerings of the course.
+
+-   [UCSD CSE Advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising)
+-   [Summer Studies Archive](https://cse-summer-transfer-welcome.github.io/)
+-   [Summer Studies YouTube Playlist](https://www.youtube.com/playlist?list=PLomrLWUG1p5Oe0V4ePwB_FimUCCOZHs9N)
+
+Next **Tuesday, August 16, 2-3pm** there is a [CSE summer transfer series](https://cse.ucsd.edu/undergraduate/summer-transfer-series) session with the Undergraduate Research Hub, Academic Internship Program, and the Career Center about [**internships and research**](https://transferstudents.ucsd.edu/resources/%20https://ucsd.zoom.us/meeting/register/tJ0lduivpjIiHtTOyEx9wYzzVmXYREmxTYiV).
+
+Hot off the (virtual) presses, this summer session featured the beta release of a new [Stepik text for CSE 12](https://stepik.org/course/109917/promo), authored in large part by UCSD CSE students! Check it out! It will be iterated on and used in future offerings of the course.
+
+-   [UCSD CSE Advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising)
+-   [Summer Studies Archive](https://cse-summer-transfer-welcome.github.io/)
+-   [Summer Studies YouTube Playlist](https://www.youtube.com/playlist?list=PLomrLWUG1p5Oe0V4ePwB_FimUCCOZHs9N)
+
+
+## Week 4
+
+Thanks for all your engagement so far!
+
+![☑️](https://fonts.gstatic.com/s/e/notoemoji/14.0/2611_fe0f/72.png) **Things to Do This Week (Do One, Some, or All!)**
+
+-   Watch three videos on Generics in Java: [[1]](https://youtu.be/qWzBrqPEvBU) [[2]](https://youtu.be/SwrOBFdsL6U) [[3]](https://youtu.be/iqm7MwFFn08) (these are from a [lecture](https://ucsd-cse11-f21.github.io/lectures/lecture22.html) in CSE11)
+
+-   Read the sections on [Generics and Collections](https://stepik.org/lesson/614368/step/1?unit=609810) in Stepik and complete the exercises
+-   Complete Summer Quiz Week 4 on [Gradescope](https://www.gradescope.com/) (about generics)
+-   Review the answers to the [week 3 quiz](https://drive.google.com/file/d/15Xnkw38PLHogXnEcqbDphRN7v9spiGEL/view?usp=sharing) and ask if you have questions
+-   Give [feedback on these emails and content](https://docs.google.com/forms/d/e/1FAIpQLSfkaM3B7K9IQMDmGZnejBBSqekkQat9tfPH8fS5Fv2VCulXQw/viewform)
+
+-   Do something [from a past week](https://cse-summer-transfer-welcome.github.io/) -- it's not too late to get started!
+
+I recommend you complete these by the end of **Tuesday, August 9**, as I'll release solutions and start new content on the 10th.
+
+![🔜](https://fonts.gstatic.com/s/e/notoemoji/14.0/1f51c/72.png) **Upcoming & Planning**
+
+This is the last week I'll be solely focused on object-oriented programming Java. Next week and the weeks beyond will be focused on data structures and content from CSE12.
+
+Some of you gave feedback in the last quiz that you were interested in seeing more of that -- I hear you! It's planned and coming now that we have our baseline Java covered. Feel free to check out [CSE12 material](https://ucsd-cse12-w20.github.io/) in the meantime!
+
+I've made a [short Google Form for more feedback](https://docs.google.com/forms/d/e/1FAIpQLSfkaM3B7K9IQMDmGZnejBBSqekkQat9tfPH8fS5Fv2VCulXQw/viewform) -- please give feedback to help me improve!
+
+**![🔗](https://fonts.gstatic.com/s/e/notoemoji/14.0/1f517/72.png) Resources & Quick Links**
+
+Check out some student organizations associated with [CSE](https://cse.ucsd.edu/diversity/student-organizations) and the [Jacobs School of Engineering](https://jacobsschool.ucsd.edu/idea/student-orgs)!
+
+One of the organizations, [ACM](https://acmucsd.com/), is hosting their [New Student Summer Sessions](https://acmurl.com/new-student-session) this weekend, from 1-2pm on **both** Saturday and Sunday (August 6 & 7). All are welcome, Zoom link is <https://acmurl.com/welcome>.
+
+-   [UCSD CSE Advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising)
+-   [Summer Studies Archive](https://cse-summer-transfer-welcome.github.io/)
+-   [Summer Studies YouTube Playlist](https://www.youtube.com/playlist?list=PLomrLWUG1p5Oe0V4ePwB_FimUCCOZHs9N)
+
 ## Week 3
 
 Hi all!
