@@ -2,12 +2,11 @@
 
 Hi all!
 
-I'm back (if a little late this week ![😬](https://fonts.gstatic.com/s/e/notoemoji/14.0/1f62c/72.png)) with more summer studies goodness.
+I'm back (if a little late this week 😬 with more summer studies goodness.
 
 It's time to talk about runtime!
 
-![☑️](https://fonts.gstatic.com/s/e/notoemoji/14.0/2611_fe0f/72.png) **Things to Do This Week (Do One, Some, or All!)\
-**
+☑️ **Things to Do This Week (Do One, Some, or All!)**
 
 -   Watch two videos on measuring and calculating runtime [[1]](https://youtu.be/_5AVXWN_cyY) [[2]](https://youtu.be/kxmCdhrCj8g) (these are from a lecture in CSE12)
 -   Complete the section on [Time Complexity](https://stepik.org/lesson/692933/step/1?unit=692543) in Stepik
@@ -25,13 +24,13 @@ It's time to register for classes! Reach out to a [CSE advisor](https://cse.uc
 -   [Summer Studies Archive](https://cse-summer-transfer-welcome.github.io/)
 -   [Summer Studies YouTube Playlist](https://www.youtube.com/playlist?list=PLomrLWUG1p5Oe0V4ePwB_FimUCCOZHs9N)
 
-Happy summer ![☀️](https://fonts.gstatic.com/s/e/notoemoji/14.0/2600_fe0f/72.png)
+Happy summer ☀️
 
 ## Week 5
 
 We're onto data structures this week -- lists first, then onto trees and more next week and beyond.
 
-![☑️](https://fonts.gstatic.com/s/e/notoemoji/14.0/2611_fe0f/72.png) **Things to Do This Week (Do One, Some, or All!)**
+☑️ **TODO**
 
 -   Watch three videos on Lists and ArrayLists [[1]](https://www.youtube.com/watch?v=dvAxaTYUzDs) [[2]](https://www.youtube.com/watch?v=fwH0Qvl0gR0) [[3]](https://www.youtube.com/watch?v=5dsTEYDPlfs)
 
@@ -41,7 +40,7 @@ We're onto data structures this week -- lists first, then onto trees and more 
 
 -   Do something [from a past week](https://cse-summer-transfer-welcome.github.io/) -- it's not too late to get started!
 
-![🔗](https://fonts.gstatic.com/s/e/notoemoji/14.0/1f517/72.png) **Resources & Quick Links**
+🔗 **Resources & Quick Links**
 
 Next **Tuesday, August 16, 2-3pm** there is a [CSE summer transfer series](https://cse.ucsd.edu/undergraduate/summer-transfer-series) session with the Undergraduate Research Hub, Academic Internship Program, and the Career Center about **internships and research**.[](https://transferstudents.ucsd.edu/resources/%20https://ucsd.zoom.us/meeting/register/tJ0lduivpjIiHtTOyEx9wYzzVmXYREmxTYiV)
 
@@ -64,7 +63,7 @@ Hot off the (virtual) presses, this summer session featured the beta release o
 
 Thanks for all your engagement so far!
 
-![☑️](https://fonts.gstatic.com/s/e/notoemoji/14.0/2611_fe0f/72.png) **Things to Do This Week (Do One, Some, or All!)**
+☑️ **Things to Do This Week (Do One, Some, or All!)**
 
 -   Watch three videos on Generics in Java: [[1]](https://youtu.be/qWzBrqPEvBU) [[2]](https://youtu.be/SwrOBFdsL6U) [[3]](https://youtu.be/iqm7MwFFn08) (these are from a [lecture](https://ucsd-cse11-f21.github.io/lectures/lecture22.html) in CSE11)
 
@@ -77,7 +76,7 @@ Thanks for all your engagement so far!
 
 I recommend you complete these by the end of **Tuesday, August 9**, as I'll release solutions and start new content on the 10th.
 
-![🔜](https://fonts.gstatic.com/s/e/notoemoji/14.0/1f51c/72.png) **Upcoming & Planning**
+🔜 **Upcoming & Planning**
 
 This is the last week I'll be solely focused on object-oriented programming Java. Next week and the weeks beyond will be focused on data structures and content from CSE12.
 
@@ -85,7 +84,7 @@ Some of you gave feedback in the last quiz that you were interested in seeing mo
 
 I've made a [short Google Form for more feedback](https://docs.google.com/forms/d/e/1FAIpQLSfkaM3B7K9IQMDmGZnejBBSqekkQat9tfPH8fS5Fv2VCulXQw/viewform) -- please give feedback to help me improve!
 
-**![🔗](https://fonts.gstatic.com/s/e/notoemoji/14.0/1f517/72.png) Resources & Quick Links**
+**🔗 Resources & Quick Links**
 
 Check out some student organizations associated with [CSE](https://cse.ucsd.edu/diversity/student-organizations) and the [Jacobs School of Engineering](https://jacobsschool.ucsd.edu/idea/student-orgs)!
 
