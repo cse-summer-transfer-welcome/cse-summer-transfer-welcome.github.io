@@ -2,7 +2,7 @@
 
 Hi all!
 
-I'm back (if a little late this week 😬 with more summer studies goodness.
+I'm back (if a little late this week 😬) with more summer studies goodness.
 
 It's time to talk about runtime!
 
