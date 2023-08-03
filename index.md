@@ -1,3 +1,97 @@
+
+
+# 2023
+
+## Week 3
+
+Hi everyone!
+
+Happy week 3ish/4ish of the summer series! Hope your summer is going great as always.
+
+🧑‍💻 **Livestream**
+
+Thanks for your responses to the welcome survey (which you can still fill in, see the link later in this message!). Thursday evening was by far the most popular time for a live online meeting. So I'm going to stream on Twitch this Thursday evening (tomorrow, August 3rd) starting at 7:30pm Pacific. The link is:
+
+[https://www.twitch.tv/profjoeucsd](https://www.twitch.tv/profjoeucsd)
+
+(Why Twitch? A few reasons. It doesn't require you to log in or open a separate app like Zoom and plays just from the browser. It *does* have chat, which is nice if you want to make an account and discuss things. It's easy to save and share recordings. I can set up my screen a little more flexibly than with Zoom screenshare. Also, I want to try it out, I haven't done it before!)
+
+I'm planning a mix of live-coding, focused on C programming, and any Q&A you have. I'll probably go for an hour and a half or two hours, and I'll send a reminder when I get started. I'll schedule future ones based on what we learn from this one.
+
+✅ **Things to do This Week (Do One, Some, or All!)**
+
+It seems like most of you are targeting CSE30 as an incoming class. With that in mind, I think it'll be useful to do a bit of C programming.
+
+So for this week:
+
+- Review this video with a solution to `Stats.java` from last week: https://www.youtube.com/watch?v=7DHOuGt5iA4
+- Come to the livestream this Thursday (tomorrow!) evening
+- Review the “Arrays and Strings” section of “Dive into Systems” https://diveintosystems.org/singlepage/#_arrays_and_strings
+  We'll use some of that material on Thursday and probably assign some related practice problems.
+- Join Discord if you want to meet + chat with others – also you can use Discord to direct message questions during the livestream. Join Discord with [https://discord.gg/scphSBUac](https://discord.gg/scphSBUac)
+- Join EdStem via [https://edstem.org/us/join/qVgKFU](https://edstem.org/us/join/qVgKFU) if you haven't already! There's a place to try out `Stats.java` and (now) there is a submission button labeled “Mark” that you can press – I'll give some coding feedback on submitted solutions. (This button was accidentally hidden, thanks to those of you who asked about it!)
+- Complete the welcome survey if you haven't already (https://docs.google.com/forms/d/e/1FAIpQLSdMoUZWUWpCoOjqO2uhRNAwR1ARmd1ZsqjkmbZ12liBglpgHg/viewform)
+
+🔗 **Resources & Quick Links**
+
+- The department has faculty advising office hours where you can chat with faculty about classes, logistics, research, and more. Check out the advising hours (most are remote) via the calendar on this page:
+  https://cse.ucsd.edu/undergraduate/advising/undergraduate-committee-ugcom-advising-and-mentorship
+  (My office hours are Monday at noon if you want to stop by and chat!)
+- Did you know many classes are recorded? You can watch past class recordings by logging in with your @ucsd account at [https://podcast.ucsd.edu/](https://podcast.ucsd.edu). Try searching under “Past Classes” for a course you're interested in if you want a preview!
+- UCSD CSE advising: [https://cse.ucsd.edu/undergraduate](https://cse.ucsd.edu/undergraduate)
+- UCSD CSE student organizations: [https://cse.ucsd.edu/student-organization](https://cse.ucsd.edu/student-organization)
+
+Happy summer 🌞
+Joe
+
+## Week 1
+
+Hi!
+
+If you're getting this, you're an incoming transfer student into UCSD CSE – welcome!
+
+My name is Joe Politz, I'm a professor at UCSD CSE.
+
+This email is the first in a series we'll be sending out over the next few weeks as part of the CSE Summer Series: [https://cse.ucsd.edu/undergraduate/cse-summer-series](https://cse.ucsd.edu/undergraduate/cse-summer-series)
+
+🗓 **Format and Content**
+
+The goals are:
+
+- to get you connected with resources in our department and university (including each other!)
+- to share some content that will help you prepare for fall
+
+We'll do this via some videos, some online quizzes and programming work, and more.
+
+Here's the video for this welcome:
+
+[https://www.youtube.com/watch?v=68HpZ9OfTHU](https://www.youtube.com/watch?v=68HpZ9OfTHU)
+
+This program is entirely free (it's literally just the advising staff plus me sending emails and running a few accounts) and there's no registration or anything. You can engage as much or as little as you like, and there's no penalty for “missing” a week or anything.
+
+✅ **Things to do This Week (Do One, Some, or All!)**
+
+Each week will come with some TODOs; you can do none, one, some, or all of them as you find useful!
+
+- Fill out the [welcome survey](https://docs.google.com/forms/d/e/1FAIpQLSdMoUZWUWpCoOjqO2uhRNAwR1ARmd1ZsqjkmbZ12liBglpgHg/viewform):  https://docs.google.com/forms/d/e/1FAIpQLSdMoUZWUWpCoOjqO2uhRNAwR1ARmd1ZsqjkmbZ12liBglpgHg/viewform
+- Join the Discord server: (use newer link above) (If you're new to Discord, it's this: https://discord.com/)
+- Join EdStem and try out the “Week 1 Quiz”: https://edstem.org/us/join/qVgKFU
+	- (Week 1 quiz link: https://edstem.org/us/courses/41515/lessons/70328/slides/376319)
+
+You can ask questions by replying directly to this email, or by asking on EdStem or on Discord!
+
+📎 **Useful Links**
+
+UCSD CSE advising: [https://cse.ucsd.edu/undergraduate/undergraduate-advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising)
+
+UCSD CSE summer  series: [https://cse.ucsd.edu/undergraduate/cse-summer-series](https://cse.ucsd.edu/undergraduate/cse-summer-series)
+
+My contact info: [https://jpolitz.github.io/contact/](https://jpolitz.github.io/contact/)
+
+------
+
+**Below are archived messages from the summer 2022 edition**
+
 ## Week 6
 
 Hi all!
